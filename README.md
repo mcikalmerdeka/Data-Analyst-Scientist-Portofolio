@@ -12,6 +12,9 @@ This repository serves to showcase my skills and as a platform to share my proje
 (*Will be further edited)
 
 ## Table of Contents
+* About
+* Portfolio Projects
+
 (*Will be further edited)
 
 ## Portfolio Projects
