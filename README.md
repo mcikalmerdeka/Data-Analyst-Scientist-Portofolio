@@ -23,5 +23,8 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Tableau
 * Looker
 
-# Project 1
+### Project 1
+(*Will be further edited)
+
+### Project 2
 (*Will be further edited)
