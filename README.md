@@ -26,8 +26,11 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Tableau
 * Looker
 
-### Project 1
-(*Will be further edited)
+### Indonesia College Entrance Examination - UTBK 2019
+Code : https://colab.research.google.com/drive/1OYm0Ab9RvOEYGq16Zz41R2MNt5PnWcUW?usp=sharing
+Tableau Dashboard : https://public.tableau.com/views/IndonesiaCollegeEntranceExamination-UTBK2019Saintek/IndonesiaCollegeEntranceExamination-UTBK2019Saintek?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Goal : To analyze and compile a report on the results of the 2019 UTBK (Academic Potential Test for State Universities) for both the Science & Technology (SAINTEK) and Social Humanities (SOSHUM) clusters.
+Description : UTBK SBMPTN is the annual college entrance exam held by and for state universities in Indonesia. This data was collected from a ranking site where exam takers could submit their score in order to gauge how well they did in comparison to others. There are about 147 thousand samples (out of 1.1 million total scores) and this data is not indicative of the whole 1.1 million dataset as it is collected from a third-party sources (with maybe some invalid data strewn in). This dataset also contains the major picked by those exam-takers.
 
 ### Project 2
 (*Will be further edited)
