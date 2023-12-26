@@ -27,7 +27,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Looker
 
 ### Indonesia College Entrance Examination - UTBK 2019
-* Code : https://colab.research.google.com/drive/1OYm0Ab9RvOEYGq16Zz41R2MNt5PnWcUW?usp=sharing
+* Code : https://github.com/mcikalmerdeka/Portfolio-Projects-Files/blob/main/Indonesia_College_Entrance_Examination_UTBK_2019.ipynb
 
 * Tableau Dashboard : https://public.tableau.com/views/IndonesiaCollegeEntranceExamination-UTBK2019Saintek/IndonesiaCollegeEntranceExamination-UTBK2019Saintek?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
