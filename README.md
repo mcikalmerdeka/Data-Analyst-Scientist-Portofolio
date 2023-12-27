@@ -29,7 +29,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 ### Indonesia College Entrance Examination - UTBK 2019
 * Code : [Indonesia_College_Entrance_Examination_UTBK_2019.ipynb](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/blob/main/Indonesia_College_Entrance_Examination_UTBK_2019.ipynb)
 
-* Tableau Dashboard : https://public.tableau.com/views/IndonesiaCollegeEntranceExamination-UTBK2019Saintek/IndonesiaCollegeEntranceExamination-UTBK2019Saintek?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+* Tableau Dashboard : [Link to Tableau Public Dashboard](https://public.tableau.com/views/IndonesiaCollegeEntranceExamination-UTBK2019Saintek/IndonesiaCollegeEntranceExamination-UTBK2019Saintek?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 * Goal : To analyze and compile a report on the results of the 2019 UTBK (Academic Potential Test for State Universities) for both the Science & Technology (SAINTEK) and Social Humanities (SOSHUM) clusters.
 
