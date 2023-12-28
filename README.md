@@ -20,7 +20,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * SQL
 * Python
-* Excel/Google Sheets
+* Microsoft Excel/Google Sheets
 * Tableau
 * Looker
 
