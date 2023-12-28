@@ -9,8 +9,6 @@ I am keenly seeking opportunities for internships or full-time positions in the 
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
-(*Will be further edited)
-
 ## Table of Contents
 * About
 * Portfolio Projects
@@ -36,4 +34,3 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Description : UTBK SBMPTN is the annual college entrance exam held by and for state universities in Indonesia. This data was collected from a ranking site where exam takers could submit their score in order to gauge how well they did in comparison to others. There are about 147 thousand samples (out of 1.1 million total scores) and this data is not indicative of the whole 1.1 million dataset as it is collected from a third-party sources (with maybe some invalid data strewn in). This dataset also contains the major picked by those exam-takers.
 
 ### Project 2
-(*Will be further edited)
