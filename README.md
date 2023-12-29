@@ -10,8 +10,8 @@ I am keenly seeking opportunities for internships or full-time positions in the 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## Table of Contents
-* About
-* Portfolio Projects
+* [About](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#about)
+* [Portfolio Projects]()
 
 (*Will be further edited)
 
