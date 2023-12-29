@@ -33,4 +33,6 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Description : UTBK SBMPTN is the annual college entrance exam held by and for state universities in Indonesia. This data was collected from a ranking site where exam takers could submit their score in order to gauge how well they did in comparison to others. There are about 147 thousand samples (out of 1.1 million total scores) and this data is not indicative of the whole 1.1 million dataset as it is collected from a third-party sources (with maybe some invalid data strewn in). This dataset also contains the major picked by those exam-takers.
 
+* Personal Notes : This is my first personal project after 2.5 months of starting to learn data-related fields from scratch. I chose the education field because I have a passion and interest in that domain, and if given the opportunity, I would like to work in that world in the future. There are several shortcomings in this project, but I did my best and learned many non-technical aspects, one of which is the difficulty of finding raw data in Indonesia compared to English-language data. 
+
 ### Project 2
