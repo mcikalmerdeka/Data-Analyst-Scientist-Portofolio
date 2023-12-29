@@ -11,7 +11,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of Contents
 * [About](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#about)
-* [Portfolio Projects]()
+* [Portfolio Projects](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#portfolio-projects)
 
 (*Will be further edited)
 
