@@ -44,4 +44,4 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Description : .
 
-* Personal Notes : The reason I am undertaking this project is because I want to practice working with data that has a time variable (date), and to my knowledge, one of the most common datasets with this variable is related to sales data. Then, I chose the F&B (Food and Beverage) industry for the business because sales transactions occur daily, providing ample opportunities to analyze the time variable extensively.
+* Personal Notes : The reason I am undertaking this project is because I want to practice working with data that has a time variable (date), and to my knowledge, one of the most common datasets with this variable is related to sales data. Then, I chose the F&B (Food and Beverage) industry for the business because sales transactions occur daily, providing great opportunities to learn how to analyze the time variable extensively.
