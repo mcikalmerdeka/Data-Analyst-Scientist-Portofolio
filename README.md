@@ -35,13 +35,13 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Personal Notes : This is my first personal project after 2.5 months of starting to learn data-related fields from scratch. I chose the education field because I have a passion and high interest in that domain, and if given the opportunity, I would like to work in that world in the future. There are several shortcomings in this project, but I did my best and learned many technical and non-technical aspects, one of which is the difficulty of finding raw data in Indonesia compared to English-language data. Most of the data is confined within government or private institutions, and very little is available as open-source data.
 
-### 2. Pizza Business Sales Performance
-* Code : [Pizza Sales Codes (SQL)]()
+### 2. US Based Ecommerce Company Sales Performance
+* Code : [Ecommerce Sales Codes (SQL)]()
 
 * Tableau Dashboard : [Link to Tableau Public Dashboard]()
 
-* Goal : To analyze key indicators in a company's pizza sales data in order to gain insights into their business performance.
+* Goal : To analyze key indicators in a ecommerce company sales data in order to gain insights into their business performance.
 
-* Description : .
+* Description : A US Based Ecommerce Sales Company wants us to create a sales dashboard showing information of YTD sales and various others to generate insights for improving business performance. The given dataset contains information on 108 thousand sales records based on product categories, customer segments, cities, and states of customer residence, and various many others.
 
-* Personal Notes : The reason I am undertaking this project is because I want to practice working with data that has a time variable (date), and to my knowledge, one of the most common datasets with this variable is related to sales data. Then, I chose the F&B (Food and Beverage) industry for the business because sales transactions occur daily, providing great opportunities to learn how to analyze the time variable extensively.
+* Personal Notes : I am embarking on this project to enhance my proficiency in handling datasets with numerous variables and parameters, which also includes a time dimension represented by date values. Among the datasets known for encompassing a diverse range of columns, sales data, particularly in the realm of e-commerce, as i know is one of the most common and rich sources.
