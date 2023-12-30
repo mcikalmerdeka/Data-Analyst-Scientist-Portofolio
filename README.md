@@ -35,4 +35,13 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Personal Notes : This is my first personal project after 2.5 months of starting to learn data-related fields from scratch. I chose the education field because I have a passion and high interest in that domain, and if given the opportunity, I would like to work in that world in the future. There are several shortcomings in this project, but I did my best and learned many technical and non-technical aspects, one of which is the difficulty of finding raw data in Indonesia compared to English-language data. Most of the data is confined within government or private institutions, and very little is available as open-source data.
 
-### Project 2
+### Pizza Business Sales Performance
+* Code : [Pizza Sales Codes (SQL)]()
+
+* Tableau Dashboard : [Link to Tableau Public Dashboard]()
+
+* Goal : To analyze key indicators in a company's pizza sales data in order to gain insights into their business performance.
+
+* Description : .
+
+* Personal Notes : The reason I am undertaking this project is because I want to practice working with data that has a time variable (date), and to my knowledge, one of the most common datasets with this variable is related to sales data. Then, I chose the F&B (Food and Beverage) industry for the business because sales transactions occur daily, providing ample opportunities to analyze the time variable extensively.
