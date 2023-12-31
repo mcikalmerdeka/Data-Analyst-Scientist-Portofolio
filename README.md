@@ -42,6 +42,6 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Goal : To analyze key indicators in a ecommerce company sales data in order to gain insights into their business performance.
 
-* Description : A US Based Ecommerce Sales Company wants us to create a sales dashboard showing information of YTD sales and various others to generate insights for improving business performance. The given dataset contains information on 108 thousand sales records based on product categories, customer segments, cities, and states of customer residence, and various many others.
+* Description : A US Based Ecommerce Sales Company wants us to create a sales dashboard showing information of YTD sales and various others to generate insights for improving business performance. The given dataset contains information on 113 thousand sales records based on product categories, customer segments, cities, and states of customer residence, and various many others.
 
 * Personal Notes : I am embarking on this project to enhance my proficiency in handling datasets with numerous variables and parameters, which also includes a time dimension represented by date values. Among the datasets known for encompassing a diverse range of columns, sales data, particularly in the realm of e-commerce, as i know is one of the most common and rich sources.
