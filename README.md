@@ -35,10 +35,10 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Personal Notes : This is my first personal project after 2.5 months of starting to learn data-related fields from scratch. I chose the education field because I have a passion and high interest in that domain, and if given the opportunity, I would like to work in that world in the future. There are several shortcomings in this project, but I did my best and learned many technical and non-technical aspects, one of which is the difficulty of finding raw data in Indonesia compared to English-language data. Most of the data is confined within government or private institutions, and very little is available as open-source data.
 
-### 2. US Based Ecommerce Company Sales Performance
-* Code : [Ecommerce Sales Codes (SQL)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/US%20Based%20Ecommerce%20Company%20Sales%20Performance)
+### 2. US Based Ecommerce Company Sales Performance (On Progress)
+* Code : [Ecommerce Sales Codes (Python)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/US%20Based%20Ecommerce%20Company%20Sales%20Performance)
 
-* Tableau Dashboard : [Link to Tableau Public Dashboard]()
+* Tableau Dashboard : [Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/cikal.merdeka/viz/USBasedEcommerceCompanySalesPerformance/SalesPerformanceDashboard?publish=yes)
 
 * Goal : To analyze key indicators in a ecommerce company sales data in order to gain insights into their business performance.
 
