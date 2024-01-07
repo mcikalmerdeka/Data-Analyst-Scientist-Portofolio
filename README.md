@@ -44,7 +44,18 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Personal Notes : I am embarking on this project to enhance my proficiency in handling datasets with numerous variables and parameters, which also includes a time dimension represented by date values. Among the datasets known for encompassing a diverse range of columns, sales data, particularly in the realm of e-commerce, as i know is one of the most common and rich sources.
 
-### 3. Ecommerce Google Ads Data Analysis
+### 3. Loan Prediction Based on Customer Behavior (Currently On-progress)
+* Code : [Loan Prediction Codes (Python)]()
+
+* Goal :
+1. Efficiency improvement: Enhancing the credit risk assessment process to be more efficient and less time-consuming.
+2. Accuracy improvement in credit risk assessment: Improving the precision of credit risk assessment by employing machine learning models.
+
+* Description : A lending company needs to verify loan applications from its potential borrowers (customers). The company possesses data on previous borrowers along with their creditworthiness (ability to repay or not). The company aims to develop a system that can predict the creditworthiness of future loan applicants based on the data of previous borrowers to minimize the risk of loan default. This is a problem of classification with the business metrics of default rate (%) : The percentage of prospective customers who fail to repay loans.
+
+* Personal Notes : This is the final project of the bootcamp I am currently attending, and the project has been ongoing since the first week of the new year in 2024, with the expectation to conclude by early March as there are still materials to study in class. I hold the role of a team leader, guiding my other 6 team members. In each stage of the project, I consistently create rough sketches (early start) of what the outcomes will look like so that task assignments for each team member can be done effectively.
+
+### 4. Ecommerce Google Ads Data Analysis
 * Report File : [Ecommerce Google Ads Analysis](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/Ecommerce%20Google%20Ads%20Data%20Analysis)
 
 * Looker Studio Dashboard : [Link to Looker Studio Dashboard](https://lookerstudio.google.com/reporting/90de1d92-08c9-47af-b13d-76bb93010a33)
