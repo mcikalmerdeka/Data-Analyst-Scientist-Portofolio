@@ -16,11 +16,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 Here are some data analytics and data science projects I have worked on. The tech stack used varies for each project, but overall, the combined stack across all projects includes:
 
-* SQL
-* Python
+* SQL (PostgreSQL & MySQL)
+* Python (numpy, pandas, scipy, matplotlib, seaborn, sklearn)
 * Microsoft Excel/Google Sheets
 * Tableau
 * Looker
+* Git & GitGub
 
 ### 1. Indonesia College Entrance Examination - UTBK 2019
 * Code : [Indonesia_College_Entrance_Examination_UTBK_2019 Codes (Python and SQL)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/Indonesia%20College%20Entrance%20Examination%20UTBK%202019)
