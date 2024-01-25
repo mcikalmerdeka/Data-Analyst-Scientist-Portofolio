@@ -56,7 +56,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Personal Notes : There is a drawback in using Looker Studio's sample data where the provided data is always updated. As a result, the display of performance metrics that was initially done in comparison to the previous period (the previous month) may be affected. The original dashboard presentation during the analysis can be viewed in the report file. I wanted to do more analysis using SQL or Python but unfortunately the sample data can't be downloaded.
 
 ### 4. Loan Prediction Based on Customer Behavior (Currently On-progress)
-* Code : [Loan Prediction Codes (Python)]()
+* Repository : [Loan Prediction (Python)](https://github.com/mcikalmerdeka/Dackers)
 
 * Goal :
 1. Efficiency improvement: Enhancing the credit risk assessment process to be more efficient and less time-consuming.
