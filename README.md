@@ -17,7 +17,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 Here are some data analytics and data science projects I have worked on. The tech stack used varies for each project, but overall, the combined stack across all projects includes:
 
 * SQL (PostgreSQL & MySQL)
-* Python (numpy, pandas, scipy, matplotlib, seaborn, sklearn)
+* Python (numpy, pandas, scipy, matplotlib, seaborn, sckit-learn)
 * Microsoft Excel/Google Sheets
 * Tableau
 * Looker
