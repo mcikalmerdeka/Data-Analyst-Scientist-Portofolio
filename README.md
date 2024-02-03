@@ -26,7 +26,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 <b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge</b>
 
 ### 1. Indonesia College Entrance Examination - UTBK 2019
-* Code : [Indonesia_College_Entrance_Examination_UTBK_2019 Codes (Python and SQL)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/Indonesia%20College%20Entrance%20Examination%20UTBK%202019)
+* Repository : [Indonesia_College_Entrance_Examination_UTBK_2019 Codes (Python and SQL)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/Indonesia%20College%20Entrance%20Examination%20UTBK%202019)
 
 * Tableau Dashboard : [Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/cikal.merdeka/viz/IndonesiaCollegeEntranceExamination-UTBK2019Result/IndonesiaCollegeEntranceExamination-UTBK2019ResultScience?publish=yes)
 
@@ -37,7 +37,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Personal Notes : This is my first personal project after 2.5 months of starting to learn data-related fields from scratch. I chose the education field because it is one of the domain I have a passion and interest in, and if given the opportunity, I would like to experience what's it like to work in that domain in the future, though i also want to learn about other domains as well like e-commerce, retail, finance, etc. There are several shortcomings in this project, but I did my best and learned many technical and non-technical aspects, one of which is the difficulty of finding raw data in Indonesia compared to English-language data. Most of the data is confined within government or private institutions, and very little is available as open-source data.
 
 ### 2. US Based Ecommerce Company Sales Performance
-* Code : [Ecommerce Sales Codes (Python)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/US%20Based%20Ecommerce%20Company%20Sales%20Performance)
+* Repository : [Ecommerce Sales Codes (Python)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/US%20Based%20Ecommerce%20Company%20Sales%20Performance)
 
 * Tableau Dashboard : [Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/cikal.merdeka/viz/USBasedEcommerceCompanySalesPerformance/SalesPerformanceDashboard?publish=yes)
 
@@ -48,7 +48,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Personal Notes : I am embarking on this project to enhance my proficiency in handling datasets with numerous variables and parameters, which also includes a time dimension represented by date values. Among the datasets known for encompassing a diverse range of columns, sales data, particularly in the realm of e-commerce, as i know is one of the most common and rich sources.
 
 ### 3. Ecommerce Google Ads Data Analysis
-* Analysis Report File : [Ecommerce Google Ads Analysis](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/Ecommerce%20Google%20Ads%20Data%20Analysis)
+* Repository : [Ecommerce Google Ads Analysis](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/Ecommerce%20Google%20Ads%20Data%20Analysis)
 
 * Looker Studio Dashboard : [Link to Looker Studio Dashboard](https://lookerstudio.google.com/reporting/90de1d92-08c9-47af-b13d-76bb93010a33)
 
