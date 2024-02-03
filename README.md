@@ -23,6 +23,8 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Looker
 * Git & GitGub
 
+<b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge</b>
+
 ### 1. Indonesia College Entrance Examination - UTBK 2019
 * Code : [Indonesia_College_Entrance_Examination_UTBK_2019 Codes (Python and SQL)](https://github.com/mcikalmerdeka/Portfolio-Projects-Files/tree/main/Indonesia%20College%20Entrance%20Examination%20UTBK%202019)
 
