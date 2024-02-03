@@ -68,3 +68,12 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Description : A lending company needs to verify loan applications from its potential borrowers (customers). The company possesses data on previous borrowers along with their creditworthiness (ability to repay or not). The company aims to develop a system that can predict the creditworthiness of future loan applicants based on the data of previous borrowers to minimize the risk of loan default. This is a problem of classification with the business metrics of default rate (%) : The percentage of prospective customers who fail to repay loans.
 
 * Personal Notes : This is the final project of the bootcamp I am currently attending, and the project has been ongoing since the first week of the new year in 2024, with the expectation to conclude by early March as there are still materials to study in class. I hold the role of a team leader, guiding my other 6 team members. In each stage of the project, I consistently create rough sketches (early start) of what the outcomes will look like so that task assignments for each team member can be done effectively.
+
+### 5. British Airways Flight Booking Prediction
+* Repository : [Flight Booking Prediction (Python)](https://github.com/mcikalmerdeka/British-Airways-Flight-Booking-Prediction)
+ 
+* Goal : Improving the business metrics of Customer Acquisition Rate (The rate at which the airline acquires new customers who book flights or holidays) which enable British Airways to be proactive in acquiring potential customers by predicting their likelihood to book flights or holidays
+ 
+* Description : The project aims to empower British Airways with a data-driven approach to customer acquisition, enabling the airline to predict and understand customer booking behavior. The success of the project lies in building a robust predictive model and translating its results into actionable strategies for acquiring customers before they embark on their holidays. Recognizing the evolving dynamics of customer behavior, the project emphasizes the need for airlines to be proactive rather than reactive
+ 
+* Personal Notes : This is one of the major assignments for a course I'm taking, focusing on job simulation as a data scientist at British Airways. Since the boot camp I'm currently enrolled in has progressed to the modeling stage, I am now actively undertaking projects related to machine learning, specifically predictive modeling. In previous projects, my emphasis was more on descriptive and diagnostic analysis.
