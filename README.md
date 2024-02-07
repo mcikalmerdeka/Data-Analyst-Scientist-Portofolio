@@ -22,7 +22,8 @@ Here are some data analytics and data science projects I have worked on. The tec
 * BI Tools (Tableau & Looker Studio)
 * Version Control (Git & GitGub)
 
-<b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge</b>
+<b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. 
+It can be in the form of using a more effective method or simply adding new parameters to a code.</b>
 
 ### 1. Indonesia College Entrance Examination - UTBK 2019
 * Repository : [Indonesia_College_Entrance_Examination_UTBK_2019 Codes (Python and SQL)](https://github.com/mcikalmerdeka/Indonesia-College-Entrance-Examination-UTBK-2019)
