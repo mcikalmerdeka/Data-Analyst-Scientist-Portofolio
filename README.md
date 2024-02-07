@@ -20,7 +20,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Python (numpy, pandas, scipy, matplotlib, seaborn, scikit-learn, tensorflow)
 * Microsoft Excel/Google Sheets
 * BI Tools (Tableau & Looker Studio)
-* Version Control (Git & GitGub)
+* Version Control (Git -> GitGub)
 
 <b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. 
 It can be in the form of using a more effective method or simply adding new parameters to a code.</b>
