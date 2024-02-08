@@ -4,14 +4,17 @@
 Hi I'm Cikal, I have an analytical background and hold a Bachelor of Science (S.si) degree in Physics from Institut Teknologi Bandung focusing on Hybrid Solar Cell research.
 
 My graduation in 2023, a pivotal year marked by significant advancements in artificial intelligence with the introduction of GPT-4 and other generative AI models, has fueled my curiosity and excitement to delve into the field of data.
-Currently, I am actively deepening my knowledge in data science through various sources, including bootcamps and online courses.
+Currently, I am actively deepening my knowledge in data science through various sources, including bootcamps and online courses. 
 I am keenly seeking opportunities for internships or full-time positions in the data field to gain early experiences and collaborate with accomplished professionals who are willing to mentor and guide me in furthering my expertise in data science.
+
+In my freetime outside of working hours I enjoy exploring new data analysis tools and techniques. I aslso like to do photography while walking around the town, read books like novel and manga, and sometimes play online games especially fast paced moba games like Dota 2 and Mobile Legends. These things does help me refresh my mind and make me more productive in working.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## Table of Contents
 * [About](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#about)
 * [Portfolio Projects](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#portfolio-projects)
+* [Certificates]()
 
 ## Portfolio Projects
 Here are some data analytics and data science projects I have worked on. The tech stack used varies for each project, but overall, the combined stack across all projects includes:
@@ -77,3 +80,6 @@ It can be in the form of using a more effective method or simply adding new para
 * Description : The project aims to empower British Airways with a data-driven approach to customer acquisition, enabling the airline to predict and understand customer booking behavior. The success of the project lies in building a robust predictive model and translating its results into actionable strategies for acquiring customers before they embark on their holidays. Recognizing the evolving dynamics of customer behavior, the project emphasizes the need for airlines to be proactive rather than reactive
  
 * Personal Notes : This is one of the major assignments for a course I'm taking, focusing on job simulation as a data scientist at British Airways. Since the boot camp I'm currently enrolled in has progressed to the modeling stage, I am now actively undertaking projects related to machine learning, specifically predictive modeling. In previous projects, my emphasis was more on descriptive and diagnostic analysis.
+
+# Certificates
+
