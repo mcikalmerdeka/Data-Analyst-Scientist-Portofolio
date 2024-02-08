@@ -14,7 +14,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Contents
 * [About](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#about)
 * [Portfolio Projects](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#portfolio-projects)
-* [Certificates]()
+* [Certificates](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio/tree/main#certificates)
 
 ## Portfolio Projects
 Here are some data analytics and data science projects I have worked on. The tech stack used varies for each project, but overall, the combined stack across all projects includes:
