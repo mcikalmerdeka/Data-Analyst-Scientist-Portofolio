@@ -1,7 +1,7 @@
 # Muhammad Cikal Merdeka - Data Analytics/Science Portofolio (Guidance Repository)
 
 ## About
-Hi I'm Cikal, I have an analytical background and hold a Bachelor of Science (S.si) degree in Physics from Institut Teknologi Bandung focusing on Hybrid Solar Cell research.
+Hi I'm Cikal, I have an analytical background and hold a Bachelor of Science (S.si) degree in Physics from Institut Teknologi Bandung, Indonesia focusing on Hybrid Solar Cell research.
 
 My graduation in 2023, a pivotal year marked by significant advancements in artificial intelligence with the introduction of GPT-4 and other generative AI models, has fueled my curiosity and excitement to delve into the field of data.
 Currently, I am actively deepening my knowledge in data science through various sources, including bootcamps and online courses. 
