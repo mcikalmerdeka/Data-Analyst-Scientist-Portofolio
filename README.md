@@ -82,4 +82,15 @@ It can be in the form of using a more effective method or simply adding new para
 * Personal Notes : This is one of the major assignments for a course I'm taking, focusing on job simulation as a data scientist at British Airways. Since the boot camp I'm currently enrolled in has progressed to the modeling stage, I am now actively undertaking projects related to machine learning, specifically predictive modeling. In previous projects, my emphasis was more on descriptive and diagnostic analysis.
 
 # Certificates
-
+- Data Analytics and Visualization Job Simulation (Jan 2024) - Forage (Provided by Accenture)
+- Data Science Job Simulation (Jan 2024) - Forage (Provided by British Airways)
+- SQL Intermediate (Des 2023) - SoloLearn
+- Data Visualization with Python (Des 2023) - Cognitive Class (Provided by IBM)
+- Data Analysis with Python (Des 2023) - Cognitive Class (Provided by IBM)
+- Data Science Methodology (Des 2023) - Cognitive Class (Provided by IBM)
+- SQL Intermediate (Des 2023) - HackerRank
+- SQL and Relational Databases 101 (Des 2023) - Cognitive Class (Provided by IBM)
+- The Complete SQL Bootcamp (Nov 2023) - Udemy (Provided by Jose Portilla)
+- Intro to Data Analytics (Oct 2023) - RevoU
+- SQL Basic (Oct 2023) - HackerRank
+- Pyhton For Beginners (Sep 2023) - OpenCV
