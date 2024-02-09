@@ -82,15 +82,16 @@ It can be in the form of using a more effective method or simply adding new para
 * Personal Notes : This is one of the major assignments for a course I'm taking, focusing on job simulation as a data scientist at British Airways. Since the boot camp I'm currently enrolled in has progressed to the modeling stage, I am now actively undertaking projects related to machine learning, specifically predictive modeling. In previous projects, my emphasis was more on descriptive and diagnostic analysis.
 
 # Certificates
-- Data Analytics and Visualization Job Simulation (Jan 2024) - Forage (Provided by Accenture)
-- Data Science Job Simulation (Jan 2024) - Forage (Provided by British Airways)
-- SQL Intermediate (Des 2023) - SoloLearn
-- Data Visualization with Python (Des 2023) - Cognitive Class (Provided by IBM)
-- Data Analysis with Python (Des 2023) - Cognitive Class (Provided by IBM)
-- Data Science Methodology (Des 2023) - Cognitive Class (Provided by IBM)
-- SQL Intermediate (Des 2023) - HackerRank
-- SQL and Relational Databases 101 (Des 2023) - Cognitive Class (Provided by IBM)
-- The Complete SQL Bootcamp (Nov 2023) - Udemy (Provided by Jose Portilla)
-- Intro to Data Analytics (Oct 2023) - RevoU
-- SQL Basic (Oct 2023) - HackerRank
-- Pyhton For Beginners (Sep 2023) - OpenCV
+- [Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_WBpJPGhbSKFR2PAD6_1705948009927_completion_certificate.pdf) (Jan 2024) - Forage (Provided by Accenture)
+- [Data Science Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_WBpJPGhbSKFR2PAD6_1706540756636_completion_certificate.pdf) (Jan 2024) - Forage (Provided by British Airways)
+- [Coding For Data](https://www.sololearn.com/certificates/CC-8SJ7FKJK) (Des 2023) - SoloLearn
+- [SQL Intermediate](https://www.sololearn.com/en/certificates/CC-SQEKSSHP) (Des 2023) - SoloLearn
+- [Data Visualization with Python](https://courses.cognitiveclass.ai/certificates/97250f3b57ee4ccc87906450d399039b) (Des 2023) - Cognitive Class (Provided by IBM)
+- [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/35346a4e982d4a5a94c8c50d4247994e) (Des 2023) - Cognitive Class (Provided by IBM)
+- [Data Science Methodology](https://courses.cognitiveclass.ai/certificates/d9d1a1af372f47fb85ab2dbc8c74f5a1) (Des 2023) - Cognitive Class (Provided by IBM)
+- [SQL Intermediate](https://www.hackerrank.com/certificates/1eecdfa2b4ab) (Des 2023) - HackerRank
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/338643d54e454302a7ff4ca6073a00a0) (Des 2023) - Cognitive Class (Provided by IBM)
+- [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-2460c9b6-d5e0-4e14-8c91-802a11046cc2/) (Nov 2023) - Udemy (Provided by Jose Portilla)
+- [Intro to Data Analytics](https://drive.google.com/file/d/1vqZEuCimcQCCdbHjBzP4vuJLDVzCsQ36/view) (Oct 2023) - RevoU
+- [SQL Basic](https://www.hackerrank.com/certificates/6051b8e2b20a) (Oct 2023) - HackerRank
+- [Pyhton For Beginners](https://courses.opencv.org/certificates/b48811a77bee403590a01822c480912b) (Sep 2023) - OpenCV
