@@ -81,6 +81,15 @@ It can be in the form of using a more effective method or simply adding new para
  
 * Personal Notes : This is one of the major assignments for a course I'm taking, focusing on job simulation as a data scientist at British Airways. Since the boot camp I'm currently enrolled in has progressed to the modeling stage, I am now actively undertaking projects related to machine learning, specifically predictive modeling. In previous projects, my emphasis was more on descriptive and diagnostic analysis.
 
+### 6. Airline Customer Value Analysis With Clustering Algorithms
+* Repository : [Airline Customer Clustering (Python)](https://github.com/mcikalmerdeka/Airline-Customer-Value-Analysis-With-Clustering-Algorithms)
+ 
+* Goal : 
+ 
+* Description : 
+ 
+* Personal Notes : This is one of the tasks from the bootcamp I am currently attending, focusing on unsupervised learning. However, in this case, I have made several further improvements, such as a more in-depth analysis in feature selection and the underlying thinking process, attempting to compare the results with other clustering algorithms, and so on.
+
 # Certificates
 - [Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_WBpJPGhbSKFR2PAD6_1705948009927_completion_certificate.pdf) (Jan 2024) - Forage (Provided by Accenture)
 - [Data Science Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_WBpJPGhbSKFR2PAD6_1706540756636_completion_certificate.pdf) (Jan 2024) - Forage (Provided by British Airways)
