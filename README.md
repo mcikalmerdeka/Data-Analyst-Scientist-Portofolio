@@ -1,15 +1,11 @@
 # Muhammad Cikal Merdeka - Data Analytics/Science Portofolio (Guidance Repository)
 
 ## About
-Hi I'm Cikal, I have an analytical background and hold a Bachelor of Science (S.si) degree in Physics from Institut Teknologi Bandung, Indonesia focusing on Hybrid Solar Cell research.
-
-My graduation in 2023, a pivotal year marked by significant advancements in artificial intelligence with the introduction of GPT-4 and other generative AI models, has fueled my curiosity and excitement to delve into the field of data.
-Currently, I am actively deepening my knowledge in data science through various sources, including bootcamps and online courses. 
-I am keenly seeking opportunities for internships or full-time positions in the data field to gain early experiences and collaborate with accomplished professionals who are willing to mentor and guide me in furthering my expertise in data science.
-
-In my freetime outside of working hours I enjoy exploring new data analysis tools and techniques. I also like to do photography while walking around the town, read books like novel and manga, listen to music, and sometimes play online games especially fast paced moba games like Dota 2 and Mobile Legends. These things does help me refresh my mind and make me more productive in working.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+
+<b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. 
+It can be in the form of using a more effective method or simply adding new parameters to a code.</b>
 
 ## Table of Contents
 * [About](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#about)
@@ -24,9 +20,6 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Microsoft Excel/Google Sheets
 * BI Tools (Tableau & Looker Studio)
 * Version Control (Git -> GitHub)
-
-<b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. 
-It can be in the form of using a more effective method or simply adding new parameters to a code.</b>
 
 ### 1. Indonesia College Entrance Examination - UTBK 2019
 * Repository : [Indonesia_College_Entrance_Examination_UTBK_2019 Codes (Python and SQL)](https://github.com/mcikalmerdeka/Indonesia-College-Entrance-Examination-UTBK-2019)
@@ -91,6 +84,9 @@ It can be in the form of using a more effective method or simply adding new para
 * Personal Notes : This is one of the tasks from the bootcamp I am currently attending, focusing on unsupervised learning. However, in this case, I have made several further improvements, such as a more in-depth analysis in feature selection and the underlying thinking process, attempting to compare the results with other clustering algorithms, and so on.
 
 # Certificates
+
+The knowledge I gained from these certifications is applied to the projects here. Some of the projects displayed here are also part of these certifications
+
 - [Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_WBpJPGhbSKFR2PAD6_1705948009927_completion_certificate.pdf) (Jan 2024) - Forage (Provided by Accenture)
 - [Data Science Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_WBpJPGhbSKFR2PAD6_1706540756636_completion_certificate.pdf) (Jan 2024) - Forage (Provided by British Airways)
 - [Coding For Data](https://www.sololearn.com/certificates/CC-8SJ7FKJK) (Des 2023) - SoloLearn
