@@ -85,7 +85,7 @@ Here are some data analytics and data science projects I have worked on. The tec
  
 * Personal Notes : This is one of the tasks from the bootcamp I am currently attending, focusing on unsupervised learning. However, in this case, I have made several further improvements, such as a more in-depth analysis in feature selection and the underlying thinking process, attempting to compare the results with other number of cluster, and so on.
 
-* ### 7. Prediction of Solar Energy Potential Based on Weather and Location Data
+### 7. Prediction of Solar Energy Potential Based on Weather and Location Data
 * Repository : [Solar Energy Prediction (Python)](https://github.com/mcikalmerdeka/Prediction-of-Solar-Energy-Potential-Based-on-Weather-and-Location-Data)
  
 * Goal : Analyzing the potential solar energy power (Watts) that can be generated based on the weather and location characteristics at a specific time.
