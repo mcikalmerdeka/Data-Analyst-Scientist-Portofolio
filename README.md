@@ -77,11 +77,20 @@ Here are some data analytics and data science projects I have worked on. The tec
 ### 6. Airline Customer Value Analysis With Clustering Algorithms
 * Repository : [Airline Customer Clustering (Python)](https://github.com/mcikalmerdeka/Airline-Customer-Value-Analysis-With-Clustering-Algorithms)
  
+* Goal : Creating customer segmentation to analyze strategies and business recommendations for a specific group in an airline company.
+ 
+* Description : An airline company intends to expand its business on their Frequent Flyer Program, a program created to motivate enrolled airline customers to accumulate points (also known as miles, kilometers, or segments) that can later be redeemed for air travel or other rewards. In this scenario, data scientists are tasked with dividing customers into several groups based on information that can depict the value of each customer.
+ 
+* Personal Notes : This is one of the tasks from the bootcamp I am currently attending, focusing on unsupervised learning. However, in this case, I have made several further improvements, such as a more in-depth analysis in feature selection and the underlying thinking process, attempting to compare the results with other number of cluster, and so on.
+
+* ### 7. Prediction of Solar Energy Potential Based on Weather and Location Data
+* Repository : [Solar Energy Prediction (Python)](https://github.com/mcikalmerdeka/Prediction-of-Solar-Energy-Potential-Based-on-Weather-and-Location-Data)
+ 
 * Goal : 
  
 * Description : 
  
-* Personal Notes : This is one of the tasks from the bootcamp I am currently attending, focusing on unsupervised learning. However, in this case, I have made several further improvements, such as a more in-depth analysis in feature selection and the underlying thinking process, attempting to compare the results with other clustering algorithms, and so on.
+* Personal Notes :
 
 # Certificates
 
