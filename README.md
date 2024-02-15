@@ -58,8 +58,10 @@ Here are some data analytics and data science projects I have worked on. The tec
 * Repository : [Loan Prediction (Python)](https://github.com/mcikalmerdeka/Dackers)
 
 * Goal :
-1. Efficiency improvement: Enhancing the credit risk assessment process to be more efficient and less time-consuming.
-2. Accuracy improvement in credit risk assessment: Improving the precision of credit risk assessment by employing machine learning models.
+  
+  * Efficiency improvement: Enhancing the credit risk assessment process to be more efficient and less time-consuming.
+
+  * Accuracy improvement in credit risk assessment: Improving the precision of credit risk assessment by employing machine learning models.
 
 * Description : A lending company needs to verify loan applications from its potential borrowers (customers). The company possesses data on previous borrowers along with their creditworthiness (ability to repay or not). The company aims to develop a system that can predict the creditworthiness of future loan applicants based on the data of previous borrowers to minimize the risk of loan default. This is a problem of classification with the business metrics of default rate (%) : The percentage of prospective customers who fail to repay loans.
 
@@ -86,11 +88,18 @@ Here are some data analytics and data science projects I have worked on. The tec
 * ### 7. Prediction of Solar Energy Potential Based on Weather and Location Data
 * Repository : [Solar Energy Prediction (Python)](https://github.com/mcikalmerdeka/Prediction-of-Solar-Energy-Potential-Based-on-Weather-and-Location-Data)
  
-* Goal : 
+* Goal : Analyzing the potential solar energy power (Watts) that can be generated based on the weather and location characteristics at a specific time.
  
-* Description : 
+* Description:
+
+  * The anticipated surge in electricity demand, projected to increase by approximately 30% by 2035 according to the US Department of Energy, necessitates substantial investments in sustainable renewable energy resources to meet this growth.
+
+  * Addressing this challenge could be facilitated through the adoption of solar energy, as suggested by the same report. It indicates the potential for solar energy to contribute up to 40% of the country's electricity supply by 2035, a significant increase from its current contribution of 3%.
+
+  * In order to enhance the solar energy infrastructure, identifying new locations with the utmost potential for consistent solar electricity generation becomes crucial. Utilizing predictive modeling, based on diverse features, can aid in pinpointing such sites.
+
  
-* Personal Notes :
+* Personal Notes : After studying machine learning algorithms, I became curious about their applications in my specific field of focus during my physics studies, which is solar energy research. Consequently, I attempted to find some research in this area and came across a paper that employs various machine learning techniques to predict power output for horizontal solar panels using 14 months of data collected from 12 northern-hemisphere locations. I utilized the raw dataset from this paper, which I found on Kaggle. While I am unsure if it represents only a sample or the entire dataset, it still serves as a valuable resource for learning about the analysis in solar energy.
 
 # Certificates
 
