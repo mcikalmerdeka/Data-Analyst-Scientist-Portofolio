@@ -99,8 +99,16 @@ Here are some data analytics and data science projects I have worked on. The tec
 
   * In order to enhance the solar energy infrastructure, identifying new locations with the utmost potential for consistent solar electricity generation becomes crucial. Utilizing predictive modeling, based on diverse features, can aid in pinpointing such sites.
 
- 
 * Personal Notes : After studying machine learning algorithms, I became curious about their applications in my specific field of focus during my physics studies, which is solar energy research. Consequently, I attempted to find some research in this area and came across a paper that employs various machine learning techniques to predict power output for horizontal solar panels using 14 months of data collected from 12 northern-hemisphere locations. I utilized the raw dataset from this paper, which I found on Kaggle. While I am unsure if it represents only a sample or the entire dataset, it still serves as a valuable resource for learning about the analysis in solar energy.
+
+### 8. Youtube Video Views Prediction
+* Repository : [Youtube Views Prediction (Python)](https://github.com/mcikalmerdeka/Youtube-Video-Views-Prediction)
+ 
+* Goal : To predict the number of views that a specific video will have when uploaded to the YouTube platform.
+ 
+* Description : As a data scientist, we are requested by a client to analyze the number of views that a video is likely to obtain when uploaded to their YouTube channel, utilizing historical statistical data. This includes factors such as upload time, trending duration, the quantity of tags used, and others. The project is aimed at understanding the algorithms governing the client's YouTube channel, enabling the development of more effective content creation strategies.
+ 
+* Personal Notes : This is part of a supervised learning task from the boot camp I am attending. However, in this case, I have made several further improvements, such as trying different modeling algorithms, checking with combinations of other features, and adding some additional explanations.
 
 # Certificates
 
