@@ -108,7 +108,7 @@ Here are some data analytics and data science projects I have worked on. The tec
  
 * Description : As a data scientist, we are requested by a client to analyze the number of views that a video is likely to obtain when uploaded to their YouTube channel, utilizing historical statistical data. This includes factors such as upload time, trending duration, the quantity of tags used, and others. The project is aimed at understanding the algorithms governing the client's YouTube channel, enabling the development of more effective content creation strategies.
  
-* Personal Notes : This is part of a supervised learning task from the boot camp I am attending. However, in this case, I have made several further improvements, such as trying different modeling algorithms, checking with combinations of other features, and adding some additional explanations.
+* Personal Notes : This is part of a supervised learning task from the boot camp I am attending. However, in this case, I have made several further improvements, such as trying different modeling algorithms, checking with combinations of other features in modelling, experimenting with the text features such as video titles, tags and description (this one is actually quite challenging since they are a mix between English and Indian), while also adding some additional explanations.
 
 # Certificates
 
