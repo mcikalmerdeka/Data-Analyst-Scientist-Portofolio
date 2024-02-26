@@ -4,9 +4,11 @@
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
-<b>! Note : Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. 
-It can be in the form of using a more effective method or simply adding new parameters to a code.
-Documentation or additional information about the new thing is sometimes added in a markdown cell below its code to serve as a reminder for me later on.</b>
+<b>! Note : 
+- Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. 
+- It can be in the form of using a more effective method or simply adding new parameters to a code.
+- Sometimes the additional code has not been run yet, so it will appear that the output is not available. For example, I learned something new while working on Project 8, and the code for that new thing was copied to Project 5, but it hasn't been run yet.
+- Documentation or additional information about the new thing is sometimes added in a markdown cell below its code to serve as a reminder for me later on.</b>
 
 ## Table of Contents
 * [About](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio?tab=readme-ov-file#about)
