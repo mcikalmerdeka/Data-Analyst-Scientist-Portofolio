@@ -5,7 +5,7 @@
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 <b>! Note : 
-- Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. It can be in the form of using a more effective method or simply adding new parameters to a code. Constant learning and improvement is the key.
+- Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. It can be in the form of using a more effective method or simply adding new parameters to a code. Consistency in learning and improvement is the key.
 - Sometimes the additional code has not been run yet, so it will appear that the output is not available. For example, I learned something new that is useful while working on Project 8, and the code for that new thing was copied and the syntax was adjusted according to Project 5, but it hasn't been run there yet. Although I already most of of them during my free time.
 - Documentation or additional information about the new thing or even just a concept of something is sometimes added in a markdown cell below its code to serve as a reminder for me later on.</b>
 
