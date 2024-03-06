@@ -6,7 +6,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 <b>! Note : 
 - Modifications have been made to several projects in alignment with the integration of recently acquired knowledge. It can be in the form of using a more effective method or simply adding new parameters to a code.
-- Sometimes the additional code has not been run yet, so it will appear that the output is not available. For example, I learned something new that is useful while working on Project 8, and the code for that new thing was copied and the syntax was adjusted according to Project 5, but it hasn't been run there yet.
+- Sometimes the additional code has not been run yet, so it will appear that the output is not available. For example, I learned something new that is useful while working on Project 8, and the code for that new thing was copied and the syntax was adjusted according to Project 5, but it hasn't been run there yet. Although I already most of of them during my free time.
 - Documentation or additional information about the new thing or even just a concept of something is sometimes added in a markdown cell below its code to serve as a reminder for me later on.</b>
 
 ## Table of Contents
@@ -107,7 +107,7 @@ Here are some data analytics and data science projects I have worked on. The tec
  
 * Goal : To predict the number of views that a specific video will have when uploaded to the YouTube platform.
  
-* Description : As a data scientist, we are requested by a client to analyze the number of views that a video is likely to obtain when uploaded to YouTube platform, utilizing historical statistical data. This includes factors such as upload time, trending duration, the quantity of tags used, and others. The project is aimed at understanding the algorithms of YouTube at the moment, enabling the development of more effective content creation strategies for client in the future.
+* Description : As a data scientist, we are requested by a client to analyze the number of views that a video is likely to obtain when uploaded to YouTube platform, utilizing historical statistical data. This includes factors such as upload time, trending duration, the quantity of tags used, and others. The project is aimed at understanding the algorithms of YouTube at the moment (dataset time), enabling the development of more effective content creation strategies for client in the future.
  
 * Personal Notes : This is part of a supervised learning task from the boot camp I am attending. However, in this case, I have made several further improvements, such as trying different modeling algorithms, checking with combinations of other features in modelling, experimenting with the text features such as video titles, tags and description (this one is actually quite challenging since they are a mix between English and Indian), while also adding some additional explanations.
 
