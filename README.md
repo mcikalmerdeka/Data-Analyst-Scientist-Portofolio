@@ -61,11 +61,10 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Goal :
   
-  * Efficiency improvement: Enhancing the credit risk assessment process to be more efficient and less time-consuming.
+  - Enhanced credit risk evaluation: Improve the assessment of credit risk by implementing machine learning models. (MAIN)
+  - Increased efficiency: Streamline the credit risk assessment process for greater effectiveness and reduced processing time. (SECONDARY)
 
-  * Accuracy improvement in credit risk assessment: Improving the precision of credit risk assessment by employing machine learning models.
-
-* Description : A lending company needs to verify loan applications from its potential borrowers (customers). The company possesses data on previous borrowers along with their creditworthiness (ability to repay or not). The company aims to develop a system that can predict the creditworthiness of future loan applicants based on the data of previous borrowers to minimize the risk of loan default. This is a problem of classification with the business metrics of default rate (%) : The percentage of prospective customers who fail to repay loans.
+* Description : A lending company needs to verify loan applications from its prospective borrowers (customers). The manual verification procedure conducted by the company has resulted in numerous inaccurate assessments, leading to loans being granted to borrowers who ultimately fail to repay (default). This has proven detrimental to the company as it incurs financial losses without any return. Additionally, the manual verification process also consumes a considerable amount of time. Building on this issue, the company aims to develop an automated system that can predict the creditworthiness of prospective borrowers in the future based on past borrower data to reduce the selection of potential customers with high default risks.
 
 * Personal Notes : This is the final project of the bootcamp I am currently attending, and the project has been ongoing since the first week of the new year in 2024, with the expectation to conclude by early March as there are still materials to study in class. I hold the role of a team leader, guiding my other 6 team members. In each stage of the project, I consistently create rough sketches (early start) of what the outcomes will look like so that task assignments for each team member can be done effectively.
 
