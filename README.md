@@ -122,6 +122,15 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Personal Notes : In the previous solar energy prediction dataset, although predictions could still be made optimally, I realized that there were some limitations in the dataset that hindered in-depth analysis. Therefore, after i finished the project I searched for another dataset with different types of features and more well-documented data values in terms of sensor data recording over time, and the addition of important irradiation feature in solar cell analysis. Although this dataset does not provide information regarding geospatial aspects like dataset before, this is more interesting to play around regarding electrical data analysis.
 
+### 10. Analyzing eCommerce Business Performance with SQL
+* Repository : [eCommerce Business Performance (SQL)](https://github.com/mcikalmerdeka/Analyzing-eCommerce-Business-Performance-with-SQL)
+ 
+* Goal : Analyzed eCommerce business data related to customer growth activity, product quality, and payment type to draw insights and business recommendation.
+ 
+* Description: This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
+
+* Personal Notes : This project is the first of mini project creation activities from my extended data science bootcamp program in Rakamin, the next four project will also be assosiated with this program. I learned some new challenging things here that weren't deeply taught in the bootcamp program such as using some advanced SQL like window function, creating ERD, learning to write more readable SQL queries, etc.
+
 
 # Certificates
 
