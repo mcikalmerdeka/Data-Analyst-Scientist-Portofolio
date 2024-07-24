@@ -20,9 +20,9 @@ Here are some data analytics and data science projects I have worked on. The tec
 * SQL (PostgreSQL, MySQL, Microsoft Access)
 * Python (numpy, pandas, scipy, matplotlib, seaborn, scikit-learn, etc)
 * Microsoft Excel/Google Sheets
-* BI Tools (Tableau, Power BI, Looker Studio)
+* BI Tools (Tableau, Power BI, Looker Studio, Metabase)
 * Version Control (Git -> GitHub)
-* Cloud Services / Data Warehousing Solutions (BigQuery)
+* Cloud Services / Data Warehousing Solutions (BigQuery, Snowflake)
 
 ### 1. Indonesia College Entrance Examination - UTBK 2019
 * Repository : [Indonesia_College_Entrance_Examination_UTBK_2019 Codes (Python and SQL)](https://github.com/mcikalmerdeka/Indonesia-College-Entrance-Examination-UTBK-2019)
