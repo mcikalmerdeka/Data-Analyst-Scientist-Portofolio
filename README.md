@@ -132,6 +132,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 * Personal Notes : This project is the first of mini project creation activities from my extended data science bootcamp program in Rakamin, the next four project will also be assosiated with this program. I learned some new challenging things here that weren't deeply taught in the bootcamp program such as using some advanced SQL like window function, creating ERD, learning to write more readable SQL queries, etc.
 
+### (More can be seen in my repositories, haven't add proper documentation for them in here) 
 
 # Certificates
 
