@@ -138,6 +138,20 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 The knowledge I gained from these certifications is applied to the projects here. Some of the projects displayed here are also part of these certifications
 
+- [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/certificate/UC-5a12a947-c8fb-40b3-85cf-f62e42214eb3/) (Oct 2024) - Udemy (Provided by Zoltan C. Toth & Miklos Petridisz)
+- [dbt Fundamentals](https://credentials.getdbt.com/5a43fe14-4a58-47a6-9431-67ab1536965e) (Oct 2024) - dbt Labs
+- [Artificial Intelligence Fundamentals](https://www.credly.com/badges/eaa83aa7-4bbe-40fb-b7a8-3fe3a3a184c7/linked_in_profile) (Sep 2024) - IBM
+- [Building AI Solutions Using Advanced Algorithms and Open Source Frameworks](https://www.credly.com/badges/87770225-041f-4c2d-aac5-b964a6b3e700/linked_in_profile) (Sep 2024) - IBM
+- [Fundamentals of Credit](http://credentials.corporatefinanceinstitute.com/5bae48df-6da7-4e09-8917-1f801ec78b95) (Sep 2024) - Corporate Finance Institute® (CFI)
+- [SQL (Advanced)](https://www.hackerrank.com/certificates/c988a0d3a98b) (Sep 2024) - HackerRank
+- [Enterprise Data Science in Practice](https://www.credly.com/badges/cc256810-57f2-4cbe-8330-76375598559c/linked_in_profile) (Aug 2024) - IBM
+- [Getting Started with Data](https://www.credly.com/badges/d958d618-c907-4eaf-8d92-016222daad65/linked_in_profile) (Aug 2024) - IBM
+- [Introduction to Business Intelligence](http://credentials.corporatefinanceinstitute.com/21840fb0-414f-474d-a66f-ffa7c0f50448) (Aug 2024) - Corporate Finance Institute® (CFI)
+- [Machine Learning for Data Science Projects](https://www.credly.com/badges/631b6d76-0379-4795-979c-da756198fc1d/linked_in_profile) (Aug 2024) - IBM
+- [Accounting Fundamentals](http://credentials.corporatefinanceinstitute.com/26beadd5-1a7a-4e5e-8d89-3f1f452264b7) (Jul 2024) - Corporate Finance Institute® (CFI)
+- [Introduction to FinTech](http://credentials.corporatefinanceinstitute.com/e8da5147-584b-434d-b8a9-da901d65a75c) (Jul 2024) - Corporate Finance Institute® (CFI)
+- [Statistics Fundamentals](http://credentials.corporatefinanceinstitute.com/f4db1d0c-168a-48e5-8383-2a617c8c7ed3) (Jul 2024) - Corporate Finance Institute® (CFI)
+- [Excel for Data Analysts](https://drive.google.com/file/d/10ZkB9YjE1Heo_owtI9PuOB89YGOdViEE/view?usp=sharing) (Mar 2024) - Analytics Mentor
 - [Data Analytics and Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_WBpJPGhbSKFR2PAD6_1705948009927_completion_certificate.pdf) (Jan 2024) - Forage (Provided by Accenture)
 - [Data Science Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_WBpJPGhbSKFR2PAD6_1706540756636_completion_certificate.pdf) (Jan 2024) - Forage (Provided by British Airways)
 - [Coding For Data](https://www.sololearn.com/certificates/CC-8SJ7FKJK) (Des 2023) - SoloLearn
