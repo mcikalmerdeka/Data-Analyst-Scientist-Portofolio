@@ -140,6 +140,14 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 The knowledge I gained from these certifications is applied to the projects here. Some of the projects displayed here are also part of these certifications
 
+- [Mathematics](https://learn.365datascience.com/c/a274dd427d) (Nov 2024) - 365 Data Science
+- [Advanced Microsoft Excel](https://learn.365datascience.com/c/fe0fcfb85e) (Nov 2024) - 365 Data Science
+- [Building Business Reports Using Power BI](https://learn.365datascience.com/c/4f592dbc0d) (Nov 2024) - 365 Data Science
+- [Communication and Presentation Skills for Analysts and Managers](https://learn.365datascience.com/c/7b6b11f549) (Nov 2024) - 365 Data Science
+- [Data Analysis with Excel Pivot Tables](https://learn.365datascience.com/c/2854240346) (Nov 2024) - 365 Data Science
+- [Dates and Times in Python](https://learn.365datascience.com/c/d12f9843cc) (Nov 2024) - 365 Data Science
+- [Power Query and Data Modeling](https://learn.365datascience.com/c/3455fad502) (Nov 2024) - 365 Data Science
+- [Web Scraping and API Fundamentals in Python](https://learn.365datascience.com/c/2f7c16b191) (Nov 2024) - 365 Data Science
 - [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/certificate/UC-5a12a947-c8fb-40b3-85cf-f62e42214eb3/) (Oct 2024) - Udemy (Provided by Zoltan C. Toth & Miklos Petridisz)
 - [dbt Fundamentals](https://credentials.getdbt.com/5a43fe14-4a58-47a6-9431-67ab1536965e) (Oct 2024) - dbt Labs
 - [Artificial Intelligence Fundamentals](https://www.credly.com/badges/eaa83aa7-4bbe-40fb-b7a8-3fe3a3a184c7/linked_in_profile) (Sep 2024) - IBM
