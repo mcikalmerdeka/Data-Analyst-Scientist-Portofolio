@@ -2,6 +2,8 @@
 
 ## About
 
+> **UPDATE MARCH 2025: My summary of projects now available on my [Canva portfolio website](https://mcikalmerdeka.my.canva.site/), I will only be using this repo for the certifications list.**
+
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 <b>! Note : 
