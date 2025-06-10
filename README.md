@@ -2,7 +2,7 @@
 
 ## About
 
-> **UPDATE MARCH 2025: My summary of projects now available on my [Canva portfolio website](https://mcikalmerdeka.my.canva.site/). Please refer to that link for all project details and updates. This repository will be maintained solely for certification documentation.**
+> **UPDATE MARCH 2025: My summary of projects now available on my [Canva portfolio website](https://mcikalmerdeka.my.canva.site/). Please refer to that link for all project details and updates. This repository will be maintained solely for [certification documentation](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio/tree/main#certificates).**
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
