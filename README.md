@@ -140,6 +140,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 The knowledge I gained from these certifications is applied to the projects here. Some of the projects displayed here are also part of these certifications
 
+- [Data Analytics with AI](https://www.sololearn.com/certificates/CC-3FNJOQAH) (June 2025) - SoloLearn
 - [Prompt Engineering](https://www.sololearn.com/certificates/CC-JEJSEL29) (Apr 2025) - SoloLearn
 - [Mathematics](https://learn.365datascience.com/c/a274dd427d) (Nov 2024) - 365 Data Science
 - [Advanced Microsoft Excel](https://learn.365datascience.com/c/fe0fcfb85e) (Nov 2024) - 365 Data Science
