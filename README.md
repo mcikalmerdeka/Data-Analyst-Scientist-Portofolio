@@ -140,6 +140,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 The knowledge I gained from these certifications is applied to the projects here. Some of the projects displayed here are also part of these certifications
 
+- [AI-Powered A/B Testing](https://www.sololearn.com/en/certificates/CC-XDUYTIKK) (June 2025) - SoloLearn
 - [Vibe Coding](https://www.sololearn.com/certificates/CC-5ABO34DW) (June 2025) - SoloLearn
 - [Data Analytics with AI](https://www.sololearn.com/certificates/CC-3FNJOQAH) (June 2025) - SoloLearn
 - [Prompt Engineering](https://www.sololearn.com/certificates/CC-JEJSEL29) (Apr 2025) - SoloLearn
