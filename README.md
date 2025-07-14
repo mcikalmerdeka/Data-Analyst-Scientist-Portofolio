@@ -140,6 +140,7 @@ Here are some data analytics and data science projects I have worked on. The tec
 
 The knowledge I gained from these certifications is applied to the projects here. Some of the projects displayed here are also part of these certifications
 
+- [LangChain - Develop AI Agents with LangChain & LangGraph](https://www.udemy.com/certificate/UC-ce89ae61-4853-4a37-8667-e9daa886a784/) (July 2025) - Udemy (Provided by Eden Marco)
 - [Data Engineering 101: The Beginner's Guide](https://www.udemy.com/certificate/UC-e33b2c7f-f6f4-4d20-93e3-b0d899c66d45/) (June 2025) - Udemy (Provided by Seungchan Lee, Nami Kim, and DeepIntuitions AI)
 - [AI-Powered A/B Testing](https://www.sololearn.com/en/certificates/CC-XDUYTIKK) (June 2025) - SoloLearn
 - [Vibe Coding](https://www.sololearn.com/certificates/CC-5ABO34DW) (June 2025) - SoloLearn
